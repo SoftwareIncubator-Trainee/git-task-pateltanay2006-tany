@@ -1,3 +1,6 @@
 [submodule "docusaurus-submodule"]
 	path = docusaurus-submodule
 	url = https://github.com/pateltanay2006-tany/docusaurus-2025.git
+[submodule "docusaurus-2025"]
+	path = docusaurus-2025
+	url = https://github.com/pateltanay2006-tany/docusaurus-2025.git
